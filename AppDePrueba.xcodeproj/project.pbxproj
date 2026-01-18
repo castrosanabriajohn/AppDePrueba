@@ -11,9 +11,9 @@
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
-		D2C918982F1C63ED00846534 /* AppDePrueba */ = {
+		D2C918982F1C63ED00846534 /* App */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			path = AppDePrueba;
+			path = App;
 			sourceTree = "<group>";
 		};
 /* End PBXFileSystemSynchronizedRootGroup section */
@@ -32,7 +32,7 @@
 		D2C9188D2F1C63ED00846534 = {
 			isa = PBXGroup;
 			children = (
-				D2C918982F1C63ED00846534 /* AppDePrueba */,
+				D2C918982F1C63ED00846534 /* App */,
 				D2C918972F1C63ED00846534 /* Products */,
 			);
 			sourceTree = "<group>";
@@ -61,7 +61,7 @@
 			dependencies = (
 			);
 			fileSystemSynchronizedGroups = (
-				D2C918982F1C63ED00846534 /* AppDePrueba */,
+				D2C918982F1C63ED00846534 /* App */,
 			);
 			name = AppDePrueba;
 			packageProductDependencies = (
@@ -251,6 +251,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YBH27S78M3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
@@ -282,6 +283,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = YBH27S78M3;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_UIApplicationSceneManifest_Generation = YES;
